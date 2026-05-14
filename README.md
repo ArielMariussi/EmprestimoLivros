@@ -66,5 +66,6 @@ O deploy é feito automaticamente no Render a cada push na branch `main`. O Dock
 
 **Ariel Mariussi**
 
+- Portfolio : https://portfolio-ariel-cyan.vercel.app/
 - GitHub: [@ArielMariussi](https://github.com/ArielMariussi)
 - Email: arielmariussi@gmail.com
