@@ -106,7 +106,7 @@ namespace EmprestimoLivros.Controllers
 
             emprestimo.UserId = userId;
             emprestimo.DataUltimaAtualizacao = DateTime.UtcNow;
-          //  ModelState.Remove("UserId");
+            ModelState.Remove("UserId");
 
             if (ModelState.IsValid)
             {
